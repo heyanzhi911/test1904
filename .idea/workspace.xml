@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd267128-8723-4b43-8996-6e224267e0d4" name="Default Changelist" comment="" />
+    <list default="true" id="cd267128-8723-4b43-8996-6e224267e0d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,14 +55,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/code/java/day99" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -107,17 +112,36 @@
       <updated>1604483600525</updated>
       <workItem from="1604483603680" duration="10503000" />
       <workItem from="1604500637761" duration="65000" />
+      <workItem from="1604537552262" duration="1479000" />
+      <workItem from="1604539053347" duration="1252000" />
+      <workItem from="1604540717426" duration="1617000" />
     </task>
+    <task id="LOCAL-00001" summary="项目经理代码架构首次提交（dudu-meeting）">
+      <created>1604537754688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604537754688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目经理代码架构首次提交（dudu-meeting）" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目经理代码架构首次提交（dudu-meeting）" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1604500685763">
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1604537753447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604500685763" />
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604537753447" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1604541418210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604541418210" />
     <state width="1850" height="262" key="GridCell.Tab.0.bottom" timestamp="1604500470009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -150,6 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1850" height="262" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604500470007" />
+    <state x="330" y="0" key="SettingsEditor" timestamp="1604542335223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604542335223" />
     <state x="161" y="34" width="1598" height="704" key="new project wizard" timestamp="1604484658226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

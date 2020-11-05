@@ -65,7 +65,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -116,6 +116,7 @@
       <workItem from="1604539053347" duration="1252000" />
       <workItem from="1604540717426" duration="1617000" />
       <workItem from="1604542354773" duration="174000" />
+      <workItem from="1604545414820" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="项目经理代码架构首次提交（dudu-meeting）">
       <created>1604537754688</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604542380884</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目经理代码架构首次提交（dudu-meeting）">
+      <created>1604545643332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604545643332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,14 +150,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="项目经理代码架构首次提交（dudu-meeting）" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1604542380029">
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1604545642301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604542380029" />
-    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1604545485419">
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604545642301" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1604546107291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604545485419" />
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604546107291" />
     <state width="1850" height="262" key="GridCell.Tab.0.bottom" timestamp="1604500470009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,10 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1850" height="262" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604500470007" />
-    <state x="330" y="0" key="SettingsEditor" timestamp="1604545458122">
+    <state x="330" y="0" key="SettingsEditor" timestamp="1604545807668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="330" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604545458122" />
+    <state x="330" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604545807668" />
     <state x="161" y="34" width="1598" height="704" key="new project wizard" timestamp="1604484658226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
